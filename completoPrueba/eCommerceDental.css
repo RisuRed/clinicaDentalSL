@@ -1,0 +1,38 @@
+.center{
+    text-align: center;
+    margin-left: 750px;
+}
+.centerForm{
+    text-align: center;
+    margin-left: 500px;
+}
+.paddingSesion{
+    padding-top: 15px;
+    padding-left: 450px;
+}
+.paddingI{
+    padding-top: 475px;
+}
+.estiloTextForm{
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 5%;
+    color: #1e3d58;
+}
+#padding-carousel{
+    padding-top: 25px;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #43b0f1;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to bottom, rgba(67, 176, 241, 0.5), rgba(232, 238, 241, 0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom, rgba(67, 176, 241, 0.5), rgba(232, 238, 241, 0.5))
+  }
